@@ -1,1 +1,1 @@
-# [Kan Xu's Home Page](kanxu526.github.io)
+# [Kan Xu's Home Page](https://kanxu526.github.io/)
