@@ -14,13 +14,12 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>site.title</h1>
+        <h1>{{ site.title }}</h1>
         
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+        <img src="{{site.logo | relative_url}}" alt="Logo" />
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+        
         University of Pennsylvania <br>
         Department of Economics <br>
         The Ronald O. Perelman Center for Political Science and Economics <br>

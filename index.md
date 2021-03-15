@@ -2,8 +2,13 @@
 layout: default
 ---
 
-| [Home](./) | [Research](./research.md) | [Teaching](./teaching.md) | [Talks](./talks.md) |
-| :--------: | :-----------------------: | :-----------------------: | :-----------------: |
-|                                                                                          |
+<table> 
+<tr>
+<th>[Home](./)</th>
+<th>[Research](./research.md)</th>
+<th>[Teaching](./teaching.md)</th>
+<th>[Talks](./talks.md)</th>
+</tr>
+</table> 
 
-I am currently a 3rd $\alpha$ year PhD student in the Economics department at the University of Pennsylvania. I am advised by Professor Hamsa Bastani. 
+I am currently a 3rd year PhD student in the Economics department at the University of Pennsylvania. I am advised by Professor Hamsa Bastani. 
