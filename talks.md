@@ -2,7 +2,13 @@
 layout: default
 ---
 
-| [Home](./) | [Research](./research.md) | [Teaching](./teaching.md) | [Talks](./talks.md) |
-| :--------: | :-----------------------: | :-----------------------: | :-----------------: |
+<table> 
+<tr>
+<th><a href="./">Home</a></th>
+<th><a href="./research.html">Research</a></th>
+<th><a href="./teaching.html">Teaching</a></th>
+<th><a href="./talks.html">Talks</a></th>
+</tr>
+</table> 
 
-test.
+
