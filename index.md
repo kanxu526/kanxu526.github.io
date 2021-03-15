@@ -4,7 +4,7 @@ layout: default
 
 <table> 
 <tr>
-<th>[Home](./)</th>
+<th> <a href="./">Home</a></th>
 <th>[Research](./research.md)</th>
 <th>[Teaching](./teaching.md)</th>
 <th>[Talks](./talks.md)</th>
