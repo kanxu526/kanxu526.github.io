@@ -13,4 +13,7 @@ layout: default
 
 ### UPenn
 
-* ECON 705 Econometrics I - Fundamentals (TA)
+ <dl>
+    <dt><h4>UPenn</h4></dt>
+    <dd>ECON 705 Econometrics I - Fundamentals (TA)</dd>
+<dl>
