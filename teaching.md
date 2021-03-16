@@ -11,9 +11,10 @@ layout: default
 </tr>
 </table> 
 
-### UPenn
-
- <dl>
-    <dt><h4>UPenn</h4></dt>
-    <dd>ECON 705 Econometrics I - Fundamentals (TA)</dd>
+<dl class="row">
+    <dt class="col-sm-2"><h4>UPenn</h4></dt>
+    <dd class="col-sm-10">
+        <p>ECON 705 Econometrics I - Fundamentals (TA) <br>
+        <small>Fall 2020 (PhD)</small></p>
+    </dd>
 <dl>
