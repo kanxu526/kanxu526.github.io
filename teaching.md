@@ -11,7 +11,7 @@ layout: default
 </ul>
 
 <dl>
-    <dt><h4>University of Pennsylvania</h4></dt>
+    <dt><h3>University of Pennsylvania</h3></dt>
     <dd>
         <p>ECON 705 Econometrics I - Fundamentals (TA) <br>
         <small>Fall 2020 (PhD)</small></p>
