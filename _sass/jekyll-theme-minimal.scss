@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 0 20px;
 }
 
-p, ul, ol, table, pre, dl {
+p, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
@@ -109,6 +109,24 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+ul {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+}
+
+li {
+  float:left;
+}
+
+li a {
+  display:block;
+  text-align:center;
+  padding:10px 10px;
+  text-decoration:none;
 }
 
 ul.downloads {
