@@ -16,4 +16,4 @@ layout: default
         <p>ECON 705 Econometrics I - Fundamentals (TA) <br>
         <small>Fall 2020 (PhD)</small></p>
     </dd>
-<dl>
+</dl>

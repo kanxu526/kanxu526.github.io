@@ -10,6 +10,11 @@ layout: default
 <li><a href="./talks.html">Talks</a></li>
 </ul>
 
-### Working Papers
-
-
+<div>
+    <h3>Working Papers</h3>
+    <p>Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings<br>
+    (with Xuanyi Zhao, Hamsa Bastani and Osbert Bastani)<br>
+    <small>- Preliminary version in International Conference on Machine Learning (ICML), 2021</small></p>
+    <p>Robust Generalization of Quadratic Neural Networks via Function Identification<br>
+    (with Hamsa Bastani and Osbert Bastani)</p>
+</div>
