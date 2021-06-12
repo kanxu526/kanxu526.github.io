@@ -13,7 +13,7 @@ layout: default
 <div>
 <h3>Working Papers</h3>
 
-<p>Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings<br>
+<p><a href="https://arxiv.org/abs/2104.08928">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 (with Xuanyi Zhao, Hamsa Bastani and Osbert Bastani)<br>
 <small>- Preliminary version in International Conference on Machine Learning (ICML), 2021</small></p>
 <p>Robust Generalization of Quadratic Neural Networks via Function Identification<br>
