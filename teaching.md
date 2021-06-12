@@ -10,10 +10,9 @@ layout: default
 <li><a href="./talks.html">Talks</a></li>
 </ul>
 
-<dl>
-    <dt><h3>University of Pennsylvania</h3></dt>
-    <dd>
-        <p>ECON 705 Econometrics I - Fundamentals (TA) <br>
-        <small>Fall 2020 (PhD)</small></p>
-    </dd>
-</dl>
+<div>
+<h3>University of Pennsylvania</h3>
+
+<p>ECON 705 Econometrics I - Fundamentals (TA) <br>
+<small>Fall 2020 (PhD)</small></p>
+</div>
