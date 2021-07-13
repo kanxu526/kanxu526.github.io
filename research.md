@@ -23,7 +23,7 @@ layout: default
 
 <h3>Publications</h3>
 
-<p><a href="http://proceedings.mlr.press/v139/xu21l.html">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings<br>
+<p><a href="http://proceedings.mlr.press/v139/xu21l.html">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 (with Xuanyi Zhao, Hamsa Bastani and Osbert Bastani)<br>
 International Conference on Machine Learning (ICML), 2021</p>
 </div>
