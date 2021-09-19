@@ -20,6 +20,9 @@ layout: default
 (with Hamsa Bastani and Osbert Bastani)</p>
 <p>Mind the Gap: Safely Bridging Offline and Online Reinforcement Learning<br>
 (with Wanqiao Xu, Hamsa Bastani and Osbert Bastani)</p>
+<p>Learning Across Bandits in High Dimension via Robust Statistics<br>
+(with Hamsa Bastani)
+</pr>
 
 <h3>Publications</h3>
 
