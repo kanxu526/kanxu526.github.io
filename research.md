@@ -16,13 +16,15 @@ layout: default
 <p><a href="https://arxiv.org/abs/2104.08928">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 (with Xuanyi Zhao, Hamsa Bastani and Osbert Bastani)<br>
 <small>- Preliminary version in International Conference on Machine Learning (ICML), 2021</small></p>
+
 <p>Robust Generalization of Quadratic Neural Networks via Function Identification<br>
 (with Hamsa Bastani and Osbert Bastani)</p>
+
 <p>Mind the Gap: Safely Bridging Offline and Online Reinforcement Learning<br>
 (with Wanqiao Xu, Hamsa Bastani and Osbert Bastani)</p>
+
 <p>Learning Across Bandits in High Dimension via Robust Statistics<br>
-(with Hamsa Bastani)
-</pr>
+(with Hamsa Bastani)</pr>
 
 <h3>Publications</h3>
 
