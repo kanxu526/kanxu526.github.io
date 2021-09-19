@@ -24,7 +24,7 @@ layout: default
 (with Wanqiao Xu, Hamsa Bastani and Osbert Bastani)</p>
 
 <p>Learning Across Bandits in High Dimension via Robust Statistics<br>
-(with Hamsa Bastani)</pr>
+(with Hamsa Bastani)</p>
 
 <h3>Publications</h3>
 
