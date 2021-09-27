@@ -17,7 +17,7 @@ layout: default
 (with Xuanyi Zhao, Hamsa Bastani and Osbert Bastani)<br>
 <small>- Preliminary version in International Conference on Machine Learning (ICML), 2021</small></p>
 
-<p>Robust Generalization of Quadratic Neural Networks via Function Identification<br>
+<p><a href="https://arxiv.org/abs/2109.10935">Robust Generalization of Quadratic Neural Networks via Function Identification<br>
 (with Hamsa Bastani and Osbert Bastani)</p>
 
 <p>Mind the Gap: Safely Bridging Offline and Online Reinforcement Learning<br>
