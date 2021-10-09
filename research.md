@@ -15,7 +15,7 @@ layout: default
 
 <p><a href="https://arxiv.org/abs/2104.08928">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 (with Xuanyi Zhao, Hamsa Bastani and Osbert Bastani)<br>
-<small>- Preliminary version in International Conference on Machine Learning (ICML), 2021</small></p>
+<small>- Preliminary version in ICML, 2021</small></p>
 
 <p><a href="https://arxiv.org/abs/2109.10935">Robust Generalization of Quadratic Neural Networks via Function Identification</a><br>
 (with Hamsa Bastani and Osbert Bastani)</p>
