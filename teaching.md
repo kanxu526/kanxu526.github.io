@@ -13,6 +13,9 @@ layout: default
 <div>
 <h3>University of Pennsylvania</h3>
 
+<p>OIDD 612 Business Analytics (TA) <br>
+<small>Fall 2021 (MBA)</small></p>
+
 <p>ECON 705 Econometrics I - Fundamentals (TA) <br>
 <small>Fall 2020 (PhD)</small></p>
 </div>

@@ -13,18 +13,18 @@ layout: default
 <div>
 <h3>Working Papers</h3>
 
+<p><a href="https://arxiv.org/abs/2112.14233">Learning Across Bandits in High Dimension via Robust Statistics<br>
+(with Hamsa Bastani)</p>
+
 <p><a href="https://arxiv.org/abs/2104.08928">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 (with Xuanyi Zhao, Hamsa Bastani and Osbert Bastani)<br>
 <small>- Preliminary version in ICML, 2021</small></p>
 
-<p><a href="https://arxiv.org/abs/2109.10935">Robust Generalization of Quadratic Neural Networks via Function Identification</a><br>
-(with Hamsa Bastani and Osbert Bastani)</p>
-
-<p>Mind the Gap: Safely Bridging Offline and Online Reinforcement Learning<br>
+<p><a href="https://arxiv.org/abs/2110.13060">Safely Bridging Offline and Online Reinforcement Learning<br>
 (with Wanqiao Xu, Hamsa Bastani and Osbert Bastani)</p>
 
-<p>Learning Across Bandits in High Dimension via Robust Statistics<br>
-(with Hamsa Bastani)</p>
+<p><a href="https://arxiv.org/abs/2109.10935">Robust Generalization of Quadratic Neural Networks via Function Identification</a><br>
+(with Hamsa Bastani and Osbert Bastani)</p>
 
 <h3>Publications</h3>
 
