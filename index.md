@@ -7,7 +7,7 @@ layout: default
 <li><a href="./CV.pdf">CV</a></li>
 <li><a href="./research.html">Research</a></li>
 <li><a href="./teaching.html">Teaching</a></li>
-<li><a href="./talks.html">Teaching</a></li>
+<li><a href="./talks.html">Talks</a></li>
 </ul>
 
 <p>I am currently a 5th year PhD student in the Department of Economics at the University of Pennsylvania. My research aims to design better machine learning tools for (sequential) data-driven decision making based on <b>data collaboration</b>. I am on the 2022-2023 job market. </p>
