@@ -11,11 +11,14 @@ layout: default
 </ul>
 
 <div>
+
+<h3>The Wharton School</h3>
+
+<p>(MBA) OIDD 612 Business Analytics<br>
+Teaching Assistant, Fall 2021 </p>
+
 <h3>University of Pennsylvania</h3>
 
-<p>OIDD 612 Business Analytics (TA) <br>
-<small>Fall 2021 (MBA)</small></p>
-
-<p>ECON 705 Econometrics I - Fundamentals (TA) <br>
-<small>Fall 2020 (PhD)</small></p>
+<p>(PhD) ECON 705 Econometrics I - Fundamentals<br>
+Teaching Assistant, Fall 2020</p>
 </div>
