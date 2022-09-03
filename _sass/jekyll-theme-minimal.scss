@@ -125,11 +125,15 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-ul {
+ul.menu {
   list-style-type:none;
   margin:0;
   padding:0;
   overflow:hidden;
+}
+
+ul {
+  list-style-type:none;
 }
 
 li {

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<ul>
+<ul class='menu'>
 <li><a href="./">Home</a></li>
 <li><a href="./CV.pdf">CV</a></li>
 <li><a href="./research.html">Research</a></li>

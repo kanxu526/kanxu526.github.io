@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<ul>
+<ul class='menu'>
 <li><a href="./">Home</a></li>
 <li><a href="./CV.pdf">CV</a></li>
 <li><a href="./research.html">Research</a></li>
@@ -12,19 +12,17 @@ layout: default
 
 <div>
 
-<p>Learning Across Bandits in High Dimension via Robust Statistics<br>
-<ul>
-<li>INFORMS Annual Meeting 2022</li>
-<li>MSOM Conference 2022</li>
-<li>RMP Conference 2022</li>
-</ul></p>
+<p><b>Learning Across Bandits in High Dimension via Robust Statistics</b><br>
+- INFORMS Annual Meeting 2022<br>
+- MSOM Conference 2022<br>
+- RMP Conference 2022<br>
+</p>
 
-<p>Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings<br>
-<ul>
-<li>INFORMS Annual Meeting 2021</li>
-<li>ICML Conference 2021</li>
-<li>MSOM Conference 2021</li>
-<li>RMP Conference 2021</li>
-<li>INFORMS Annual Meeting 2020</li>
-</ul></p>
+<p><b>Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</b><br>
+- INFORMS Annual Meeting 2021<br>
+- ICML Conference 2021<br>
+- MSOM Conference 2021<br>
+- RMP Conference 2021<br>
+- INFORMS Annual Meeting 2020<br>
+</p>
 </div>
