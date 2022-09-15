@@ -15,6 +15,7 @@ layout: default
 
 <p><a href="https://arxiv.org/abs/2112.14233">Learning Across Bandits in High Dimension via Robust Statistics</a><br>
 (with Hamsa Bastani)<br>
+<b>[Job Market Paper]</b><br>
 Major Revision, <b>Management Science</b></p>
 
 <p><a href="https://arxiv.org/abs/2104.08928">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
