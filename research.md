@@ -28,6 +28,9 @@ Major Revision, <b>Management Science</b></p>
 <p><a href="https://arxiv.org/abs/2109.10935">Robust Generalization of Quadratic Neural Networks via Function Identification</a><br>
 (with Hamsa Bastani and Osbert Bastani)</p>
 
+<p><a href="https://arxiv.org/abs/2009.02854v4">Two-Stage Maximum Score Estimator</a><br>
+(with Wayne Gao and Sheng Xu)</p>
+
 <h3>Publications</h3>
 
 <p><a href="http://proceedings.mlr.press/v139/xu21l.html">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
