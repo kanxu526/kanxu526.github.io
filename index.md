@@ -15,3 +15,9 @@ layout: default
 <p>Previously, I graduated from Tsinghua University with a B.S. in Mathematics and a B.A. in Economics, and the University of Chicago with a M.S. in Statistics. </p>
 
 <p><b>I am on the 2022-2023 job market.</b></p>
+
+<p>I will present my work in the following sessions at the 2022 INFORMS Annual Meeting:<br>
+- TA55. Cutting-edge Algorithms for Data-driven Decision-making. Tue Oct 18th, 2022, 8:00 AM - 9:15 AM. Location: M - Marriott 2.<br>
+- MD51. Service Science Best Student Paper. Mon Oct 17th, 2022, 2:00 PM - 3:15 PM. Location: M - Santa Fe.<br>
+- MC16. Job Talk Lightning Session. Mon Oct 17th, 2022, 12:30 PM - 1:45 PM. Location: CC - Room 121.<br>
+</p>
