@@ -17,7 +17,7 @@ layout: default
 (with Hamsa Bastani)<br>
 <b>[Job Market Paper]</b><br>
 Major Revision, <b>Management Science</b><br>
-<span class='award'>Finalist, IBM Service Science Best Student Paper Award (2022)</span></p>
+<span class='award'>Third Place, IBM Service Science Best Student Paper Award (2022)</span></p>
 
 <p><a href="https://arxiv.org/abs/2104.08928">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 (with Xuanyi Zhao, Hamsa Bastani and Osbert Bastani)<br>
