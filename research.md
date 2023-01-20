@@ -25,7 +25,7 @@ Under Review, <b>Management Science</b><br>
 - Preliminary version in ICML, 2021</p>
 
 <p><a href="https://arxiv.org/abs/2110.13060">Safely Bridging Offline and Online Reinforcement Learning</a><br>
-(with Wanqiao Xu, Hamsa Bastani and Osbert Bastani)</p>
+(with Wanqiao Xu, Hamsa Bastani and Osbert Bastani)
 - Preliminary version in AISTATS, 2023</p>
 
 <p><a href="https://arxiv.org/abs/2109.10935">Robust Generalization of Quadratic Neural Networks via Function Identification</a><br>
