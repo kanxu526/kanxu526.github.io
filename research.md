@@ -22,11 +22,11 @@ Major Revision, <b>Management Science</b><br>
 <p><a href="https://arxiv.org/abs/2104.08928">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 (with Xuanyi Zhao, Hamsa Bastani and Osbert Bastani)<br>
 Under Review, <b>Management Science</b><br>
-- Preliminary version in ICML, 2021</p>
+- Preliminary version in <b>ICML</b>, 2021</p>
 
 <p><a href="https://arxiv.org/abs/2110.13060">Safely Bridging Offline and Online Reinforcement Learning</a><br>
 (with Wanqiao Xu, Hamsa Bastani and Osbert Bastani)<br>
-- Preliminary version in AISTATS, 2023</p>
+- Preliminary version in <b>AISTATS</b>, 2023</p>
 
 <p><a href="https://arxiv.org/abs/2109.10935">Robust Generalization of Quadratic Neural Networks via Function Identification</a><br>
 (with Hamsa Bastani and Osbert Bastani)</p>
