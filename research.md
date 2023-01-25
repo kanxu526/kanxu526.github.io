@@ -35,7 +35,7 @@ Under Review, <b>Management Science</b><br>
 
 <h3>Publications</h3>
 
-<p>Safely Bridging Offline and Online Reinforcement Learning</a><br>
+<p>Safely Bridging Offline and Online Reinforcement Learning<br>
 (with Wanqiao Xu, Hamsa Bastani and Osbert Bastani)<br>
 <b>International Conference on Artificial Intelligence and Statistics (AISTATS)</b>, 2023</p>
 
