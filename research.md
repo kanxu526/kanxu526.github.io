@@ -7,7 +7,6 @@ layout: default
 <li><a href="./CV.pdf">CV</a></li>
 <li><a href="./research.html">Research</a></li>
 <li><a href="./teaching.html">Teaching</a></li>
-<li><a href="./talks.html">Talks</a></li>
 </ul>
 
 <div>
@@ -15,17 +14,17 @@ layout: default
 
 <p><a href="https://arxiv.org/abs/2112.14233">Learning Across Bandits in High Dimension via Robust Statistics</a><br>
 (with Hamsa Bastani)<br>
-<b>[Job Market Paper]</b><br>
 Major Revision, <b>Management Science</b><br>
 <span class='award'>3rd Place, IBM Service Science Best Student Paper Award (2022)</span></p>
 
 <p><a href="https://arxiv.org/abs/2104.08928">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 (with Xuanyi Zhao, Hamsa Bastani and Osbert Bastani)<br>
 Under Review, <b>Management Science</b><br>
-- Preliminary version in ICML, 2021</p>
+- Preliminary version in <b>ICML</b>, 2021</p>
 
 <p><a href="https://arxiv.org/abs/2110.13060">Safely Bridging Offline and Online Reinforcement Learning</a><br>
-(with Wanqiao Xu, Hamsa Bastani and Osbert Bastani)</p>
+(with Wanqiao Xu, Hamsa Bastani and Osbert Bastani)<br>
+- Preliminary version in <b>AISTATS</b>, 2023</p>
 
 <p><a href="https://arxiv.org/abs/2109.10935">Robust Generalization of Quadratic Neural Networks via Function Identification</a><br>
 (with Hamsa Bastani and Osbert Bastani)</p>
@@ -34,6 +33,10 @@ Under Review, <b>Management Science</b><br>
 (with Wayne Gao and Sheng Xu)</p>
 
 <h3>Publications</h3>
+
+<p>Safely Bridging Offline and Online Reinforcement Learning<br>
+(with Wanqiao Xu, Hamsa Bastani and Osbert Bastani)<br>
+<b>International Conference on Artificial Intelligence and Statistics (AISTATS)</b>, 2023</p>
 
 <p><a href="http://proceedings.mlr.press/v139/xu21l.html">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 (with Xuanyi Zhao, Hamsa Bastani and Osbert Bastani)<br>
