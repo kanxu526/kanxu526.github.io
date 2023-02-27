@@ -19,7 +19,7 @@ Major Revision, <b>Management Science</b><br>
 
 <p><a href="https://arxiv.org/abs/2104.08928">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 (with Xuanyi Zhao, Hamsa Bastani and Osbert Bastani)<br>
-Under Review, <b>Management Science</b><br>
+Major Revision, <b>Management Science</b><br>
 - Preliminary version in <b>ICML</b>, 2021</p>
 
 <p><a href="https://arxiv.org/abs/2110.13060">Safely Bridging Offline and Online Reinforcement Learning</a><br>
@@ -34,8 +34,8 @@ Under Review, <b>Management Science</b><br>
 
 <h3>Publications</h3>
 
-<p>Safely Bridging Offline and Online Reinforcement Learning<br>
-(with Wanqiao Xu, Hamsa Bastani and Osbert Bastani)<br>
+<p>Uniformly Conservative Exploration in Reinforcement Learning<br>
+(with Wanqiao Xu, Jason Yecheng Ma, Hamsa Bastani and Osbert Bastani)<br>
 <b>International Conference on Artificial Intelligence and Statistics (AISTATS)</b>, 2023</p>
 
 <p><a href="http://proceedings.mlr.press/v139/xu21l.html">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
