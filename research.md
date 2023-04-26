@@ -34,7 +34,7 @@ Major Revision, <b>Management Science</b><br>
 
 <h3>Publications</h3>
 
-<p>Uniformly Conservative Exploration in Reinforcement Learning<br>
+<p><a href="https://proceedings.mlr.press/v206/xu23j.html">Uniformly Conservative Exploration in Reinforcement Learning</a><br>
 (with Wanqiao Xu, Jason Yecheng Ma, Hamsa Bastani and Osbert Bastani)<br>
 <b>International Conference on Artificial Intelligence and Statistics (AISTATS)</b>, 2023</p>
 
