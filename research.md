@@ -9,7 +9,7 @@ layout: default
 </ul>
 
 <div>
-<h4>Working Papers</h4>
+<h3>Working Papers</h3>
 
 <p><a href="https://arxiv.org/abs/2112.14233">Multitask Learning and Bandits via Robust Statistics</a><br>
 (with Hamsa Bastani)<br>
@@ -31,7 +31,7 @@ Major Revision, <b>Management Science</b><br>
 <p><a href="https://arxiv.org/abs/2009.02854v4">Two-Stage Maximum Score Estimator</a><br>
 (with Wayne Gao and Sheng Xu)</p>
 
-<h4>Publications</h4>
+<h3>Publications</h3>
 
 <p><a href="https://proceedings.mlr.press/v206/xu23j.html">Uniformly Conservative Exploration in Reinforcement Learning</a><br>
 (with Wanqiao Xu, Jason Yecheng Ma, Hamsa Bastani and Osbert Bastani)<br>
@@ -41,7 +41,7 @@ Major Revision, <b>Management Science</b><br>
 (with Xuanyi Zhao, Hamsa Bastani and Osbert Bastani)<br>
 <b>International Conference on Machine Learning (ICML)</b>, 2021</p>
 
-<h4>Software</h4>
+<h3>Software</h3>
 
 <p><a href="https://github.com/stephenslab/EbayesThresh">R Package: EbayesThresh</a><br>
 (with Bernard W. Silverman, Ludger Evers, Peter Carbonetto and Matthew Stephens)<br></p>
