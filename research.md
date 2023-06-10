@@ -3,13 +3,13 @@ layout: default
 ---
 
 <ul class='menu'>
-<li><a href="./">Home</a></li>
+<li><a cla href="./">Home</a></li>
 <li><a href="./CV.pdf">CV</a></li>
 <li><a href="./research.html">Research</a></li>
 </ul>
 
 <div>
-<h1>Working Papers</h1>
+<h3>Working Papers</h1>
 
 <p><a href="https://arxiv.org/abs/2112.14233">Multitask Learning and Bandits via Robust Statistics</a><br>
 (with Hamsa Bastani)<br>
@@ -31,7 +31,7 @@ Major Revision, <b>Management Science</b><br>
 <p><a href="https://arxiv.org/abs/2009.02854v4">Two-Stage Maximum Score Estimator</a><br>
 (with Wayne Gao and Sheng Xu)</p>
 
-<h2>Publications</h2>
+<h3>Publications</h2>
 
 <p><a href="https://proceedings.mlr.press/v206/xu23j.html">Uniformly Conservative Exploration in Reinforcement Learning</a><br>
 (with Wanqiao Xu, Jason Yecheng Ma, Hamsa Bastani and Osbert Bastani)<br>
