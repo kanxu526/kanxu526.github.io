@@ -37,11 +37,12 @@ h3, h4, h5, h6 {
 a {
   color:#222;
   text-decoration:none;
+  font-weight:bold;
 }
 
 a:hover, a:focus {
   color:#8E99DB;
-  font-weight: bold;
+  font-weight:bold;
 }
 
 a small {
@@ -116,6 +117,10 @@ ul.menu {
   margin:0;
   padding:0;
   overflow:hidden;
+}
+
+li {
+  float:left;
 }
 
 li a {
@@ -208,6 +213,10 @@ footer {
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
+}
+
+span.award {
+  color: #E04D01
 }
 
 @media print, screen and (max-width: 960px) {
