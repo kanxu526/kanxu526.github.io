@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        
+        <img src="{{site.logo | relative_url}}" width='' height='' alt="Logo"/>
+        
+        <p>
+          Department of Economics <br>
+          University of Pennsylvania <br>
+          The Ronald O. Perelman Center for Political Science and Economics <br>
+          133 South 36th Street <br>
+          Philadelphia, PA 19104 <br>
+          kanxu [AT] upenn [DOT] edu <br>
+        </p>
+
+        <p>
+          <a href="https://scholar.google.com/citations?user=SaEf5CUAAAAJ&hl=en&authuser=2">Google Scholar</a> | <a href="https://www.linkedin.com/in/kan-xu-8170b953/" data-proofer-ignore>Linkedin</a> | <a href="https://twitter.com/kanxu526" data-proofer-ignore>Twitter</a>
+        </p>
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>
