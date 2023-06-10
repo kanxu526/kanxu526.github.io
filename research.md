@@ -9,7 +9,7 @@ layout: default
 </ul>
 
 <div>
-<h3>Working Papers</h3>
+<h2>Working Papers</h2>
 
 <p><a href="https://arxiv.org/abs/2112.14233">Multitask Learning and Bandits via Robust Statistics</a><br>
 (with Hamsa Bastani)<br>
