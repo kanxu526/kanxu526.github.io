@@ -13,5 +13,5 @@ layout: default
 <p>My research aims to develop novel machine learning algorithms for data-driven decision making practices, with focus on bandits, multitask learning, and high dimensional statistics. In addition, I also seek to provide safe and robust machine learning solutions. My work has been motivated by real-world business applications in healthcare operations, textual analytics, and dynamic pricing. </p>
 
 <p>
-I am actively looking for motivated graduate and undergraduate students and colleague collaborators who might be interested in theoretical and applied machine learning (more specifically, matrix completion these days). Please feel free to send me an email if you would like to collaborate or chat. 
+I am actively looking for motivated graduate and undergraduate students and colleague collaborators who might be interested in theoretical and applied machine learning. Please feel free to send me an email if you would like to collaborate or chat. 
 </p>
