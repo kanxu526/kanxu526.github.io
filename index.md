@@ -8,7 +8,7 @@ layout: default
 <li><a href="./research.html">Research</a></li>
 </ul>
 
-<p>I am currently a 5th year PhD student in the Department of Economics at the University of Pennsylvania, advised by <a href="https://hamsabastani.github.io"> Hamsa Bastani</a>. I will join <a href="https://wpcarey.asu.edu/">Arizona State University W. P. Carey School of Business</a> as an Assistant Professor of Information Systems from Fall 2023.  Previously, I graduated from Tsinghua University with a B.S. in Mathematics and a B.A. in Economics, and the University of Chicago with a M.S. in Statistics. </p>
+<p>I am currently an Assistant Professor of Information Systems at <a href="https://wpcarey.asu.edu/">Arizona State University W. P. Carey School of Business</a>. Previously, I completed my PhD degree from University of Pennsylvania Department of Economics under the supervision of <a href="https://hamsabastani.github.io"> Hamsa Bastani</a>. I received a B.S. in Mathematics and a B.A. in Economics from Tsinghua University, and a M.S. in Statistics from University of Chicago. </p>
 
 <p>My research aims to develop novel machine learning algorithms for data-driven decision making practices, with focus on bandits, multitask learning, and high dimensional statistics. In addition, I also seek to provide safe and robust machine learning solutions. My work has been motivated by real-world business applications in healthcare operations, textual analytics, and dynamic pricing. </p>
 
