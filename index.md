@@ -17,9 +17,9 @@ I am actively looking for motivated graduate and undergraduate students, and col
 </p>
 
 <p>
-I will be presenting two works at <a href="https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/">MIT@CODE<a>, Nov 10 - 11, 2023:
+I will be presenting two works at <a href="https://ide.mit.edu/events/2023-conference-on-digital-experimentation-mit-codemit/">MIT@CODE</a>, Nov 10-11, 2023:
 <ol>
-<li>Session F: Bipartite Experiments, "Online Learning in Matching Market through Matrix Completion"</li>
-<li>Session I: Bandits and Adaptive Experimentation, "Learning Across a Network of Bandits"</li>
+<li>Session F: Bipartite Experiments, "Online Learning in Matching Market through Matrix Completion";</li>
+<li>Session I: Bandits and Adaptive Experimentation, "Learning Across a Network of Bandits".</li>
 </ol>
 </p>
