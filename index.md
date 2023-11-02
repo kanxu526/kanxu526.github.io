@@ -8,12 +8,12 @@ layout: default
 <li><a href="./research.html">Research</a></li>
 </ul>
 
-<p>I am currently an Assistant Professor of Information Systems at <a href="https://wpcarey.asu.edu/">Arizona State University W. P. Carey School of Business</a>. Previously, I completed my PhD degree from University of Pennsylvania Department of Economics under the supervision of <a href="https://hamsabastani.github.io"> Hamsa Bastani</a>. I received a B.S. in Mathematics and a B.A. in Economics from Tsinghua University, and a M.S. in Statistics from University of Chicago. </p>
+<p>I am currently an Assistant Professor of Information Systems at <a href="https://wpcarey.asu.edu/">Arizona State University, W. P. Carey School of Business</a>. Previously, I completed my PhD degree from University of Pennsylvania Department of Economics under the supervision of <a href="https://hamsabastani.github.io"> Hamsa Bastani</a>. I received a B.S. in Mathematics and a B.A. in Economics from Tsinghua University, and a M.S. in Statistics from University of Chicago. </p>
 
-<p>My research aims to develop novel machine learning algorithms for data-driven decision making practices, with focus on bandits, multitask learning, and high dimensional statistics. In addition, I also seek to provide safe and robust machine learning solutions. My work has been motivated by real-world business applications in healthcare operations, textual analytics, and dynamic pricing. </p>
+<p>My research focuses on developing novel machine learning methods for data-driven decision making practices, with applications to healthcare, textual analytics, digital platform, and pricing. In particular, I have designed tools for sequential decision-making (e.g., bandits, reinforcement learning), collaborative decision making (e.g., multitask learning, transfer learning), and data with unstructured (e.g. natural language processing (NLP)) or matrix form (e.g., matrix completion). </p>
 
 <p>
-I am actively looking for motivated graduate and undergraduate students, and colleague collaborators who might be interested in theoretical and applied machine learning. Please feel free to send me an email if you would like to collaborate or chat! 
+I am actively looking for graduate, undergraduate students, and colleagues who might be interested in collaborating. The topics include all areas related to Information Systems, Operations Management, and Marketing, of both theoretical and applied machine learning, and empirical research. Please feel free to send me an email if you would like to chat! 
 </p>
 
 <p>
