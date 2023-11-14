@@ -33,7 +33,7 @@ Major Revision, <b>Management Science</b><br>
 <p><a href="https://arxiv.org/abs/2009.02854v4">Two-Stage Maximum Score Estimator</a><br>
 (with Wayne Gao and Sheng Xu)</p>
 
-<p>Online Learning in Matching Market through Matrix Completion<br>
+<p><a>Online Learning in Matching Market through Matrix Completion</a><br>
 (with Zhiyuan Tang and Wanning Chen)<br>
 - Presented at: MIT CODE 2023</p>
 

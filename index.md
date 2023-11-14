@@ -16,7 +16,7 @@ layout: default
 I am actively looking for motivated graduate and undergraduate students, and colleagues who are interested in collaborating. The topics include all areas related to Information Systems, Operations Management, and Marketing, of both theoretical and applied machine learning, and empirical research. Please feel free to send me an email if you would like to chat! 
 </p>
 
+<h3>News</h3>
 <p>
-<b>News:</b> <br>
 I will be presenting "Online Learning in Matching Market through Matrix Completion" at <a href="https://www.fox.temple.edu/faculty-research/institutes-centers/global-institute-artificial-intelligence-business-analytics/conferences/2023-conference-artificial-intelligence-machine-learning-business-analytics">2023 AIML Conference</a>, Dec 1-2, 2023.
 </p>
