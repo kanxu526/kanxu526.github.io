@@ -14,12 +14,14 @@ layout: default
 <p><a href="https://arxiv.org/abs/2112.14233">Multitask Learning and Bandits via Robust Statistics</a><br>
 (with Hamsa Bastani)<br>
 Major Revision, <b>Management Science</b><br>
-<span class='award'>3rd Place, IBM Service Science Best Student Paper Award (2022)</span></p>
+<span class='award'>3rd Place, IBM Service Science Best Student Paper Award (2022)</span><br>
+- Presented at: MIT CODE 2023</p>
 
 <p><a href="https://arxiv.org/abs/2104.08928">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 (with Xuanyi Zhao, Hamsa Bastani and Osbert Bastani)<br>
 Major Revision, <b>Management Science</b><br>
-- Preliminary version in <b>ICML</b>, 2021</p>
+- Preliminary version in <b>ICML</b>, 2021<br>
+- Presented at: CIST 2023</p>
 
 <p><a href="https://arxiv.org/abs/2110.13060">Safely Bridging Offline and Online Reinforcement Learning</a><br>
 (with Wanqiao Xu, Hamsa Bastani and Osbert Bastani)<br>
