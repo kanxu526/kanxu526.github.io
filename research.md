@@ -17,7 +17,7 @@ Minor Revision, <b>Management Science</b><br>
 <span class='award'>3rd Place, IBM Service Science Best Student Paper Award (2022)</span><br>
 - Presented at: MIT CODE 2023</p>
 
-<p><a href="./grouptl.pdf">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
+<p><a href="./research/grouptl.pdf">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 (with Xuanyi Zhao, Hamsa Bastani and Osbert Bastani)<br>
 Major Revision, <b>Management Science</b><br>
 - Preliminary version in <b>ICML</b>, 2021<br>
