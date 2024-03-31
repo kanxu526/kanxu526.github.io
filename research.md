@@ -11,7 +11,7 @@ layout: default
 <div>
 <h3>Working Papers</h3>
 
-<p><a href="https://arxiv.org/abs/2112.14233">Multitask Learning and Bandits via Robust Statistics</a><br>
+<p><a href="./research/rmbandit.pdf">Multitask Learning and Bandits via Robust Statistics</a><br>
 (with Hamsa Bastani)<br>
 Minor Revision, <b>Management Science</b><br>
 <span class='award'>3rd Place, IBM Service Science Best Student Paper Award (2022)</span><br>
