@@ -18,5 +18,6 @@ I am actively looking for motivated graduate and undergraduate students, and col
 
 <h3>News</h3>
 <p>
-I will be presenting "Online Learning in Matching Market through Matrix Completion" at <a href="https://www.fox.temple.edu/faculty-research/institutes-centers/global-institute-artificial-intelligence-business-analytics/conferences/2023-conference-artificial-intelligence-machine-learning-business-analytics">2023 AIML Conference</a>, Dec 1-2, 2023.
+- I will be presenting "Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings" at <a href="https://www.bus.umich.edu/Conferences/UDLM/Schedule.aspx">Michigan Ross Workshop on Unstructured Data and Language Models</a>, Jun 28-29, 2024.<br>
+- I will be presenting "Online Learning in Matching Market through Matrix Completion" at <a href="https://www.fox.temple.edu/faculty-research/institutes-centers/global-institute-artificial-intelligence-business-analytics/conferences/2023-conference-artificial-intelligence-machine-learning-business-analytics">2023 AIML Conference</a>, Dec 1-2, 2023.
 </p>
