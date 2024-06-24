@@ -13,7 +13,7 @@ layout: default
 <p>My research focuses on developing novel machine learning methods for data-driven decision making practices, with applications to healthcare, textual analytics, digital platform, and pricing. In particular, I have designed tools for sequential decision making (e.g., bandits, reinforcement learning), collaborative decision making (e.g., multitask learning, transfer learning), and decision making with unstructured (e.g. natural language processing (NLP)) or matrix form (e.g., matrix completion). </p>
 
 <p>
-I am actively looking for motivated graduate and undergraduate students, and colleagues who are interested in collaborating. The topics include all areas related to Information Systems, Operations Management, and Marketing, of both theoretical and applied machine learning, and empirical research. Please feel free to send me an email if you would like to chat! 
+I am actively looking for motivated graduate and undergraduate students (and colleagues who are interested in collaborating). The topics include all areas related to Information Systems, Operations Management, and Marketing, of both applied and theoretical machine learning. Please feel free to send me an email if you would like to chat about potential opportunities! 
 </p>
 
 <h3>News</h3>

@@ -28,12 +28,12 @@ Major Revision, <b>Management Science</b><br>
 - Preliminary version in <b>AISTATS</b>, 2023<br>
 - Presented at: ICML RL4RealLife Workshop 2021, ICML RL Theory Workshop 2021, RLDM Conference 2022</p>
 
+<p><a href="https://arxiv.org/abs/2009.02854v4">Two-Stage Maximum Score Estimator</a><br>
+(with Wayne Gao and Sheng Xu)</p>
+
 <p><a href="https://arxiv.org/abs/2109.10935">Robust Generalization of Quadratic Neural Networks via Function Identification</a><br>
 (with Hamsa Bastani and Osbert Bastani)<br>
 - Presented at: ICML UDL Workshop 2021, ICML OPPO Workshop 2021</p>
-
-<p><a href="https://arxiv.org/abs/2009.02854v4">Two-Stage Maximum Score Estimator</a><br>
-(with Wayne Gao and Sheng Xu)</p>
 
 <h3>Publications</h3>
 
