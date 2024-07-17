@@ -14,12 +14,12 @@ layout: default
 <p><a href="./research/grouptl.pdf">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 Kan Xu, Xuanyi Zhao, Hamsa Bastani, Osbert Bastani<br>
 Major Revision, <b>Management Science</b><br>
-- Preliminary version in <b>ICML</b>, 2021<br>
+- Preliminary version in <b>ICML</b>, 2021</p>
 
 <p><a href="">Optimal Multitask Linear Regression and
 Contextual Bandits under Sparse Heterogeneity</a><br>
 Xinmeng Huang, Kan Xu, Donghwan Lee, Hamed Hassani, Hamsa Bastani, Edgar Dobriban<br>
-Moderate Revision, <b>Journal of the American Statistical Association</b><br>
+Moderate Revision, <b>Journal of the American Statistical Association</b></p>
 
 <p><a href="https://arxiv.org/abs/2009.02854v4">Two-Stage Maximum Score Estimator</a><br>
 Wayne Gao, Sheng Xu, Kan Xu</p>
@@ -33,7 +33,7 @@ Kan Xu, Hamsa Bastani, Osbert Bastani<br>
 <p><a href="./research/rmbandit.pdf">Multitask Learning and Bandits via Robust Statistics</a><br>
 Kan Xu, Hamsa Bastani<br>
 <b>Management Science</b> (Forthcoming)<br>
-<span class='award'>3rd Place, IBM Service Science Best Student Paper Award (2022)</span><br>
+<span class='award'>3rd Place, IBM Service Science Best Student Paper Award (2022)</span></p>
 
 <h3>Refereed Conference Publications</h3>
 
@@ -52,6 +52,6 @@ Kan Xu, Xuanyi Zhao, Hamsa Bastani, Osbert Bastani<br>
 <h3>Software</h3>
 
 <p><a href="https://github.com/stephenslab/EbayesThresh">R Package: EbayesThresh</a><br>
-Kan Xu, Peter Carbonetto, Matthew Stephens, Bernard W. Silverman, Ludger Evers<br></p>
+Kan Xu, Peter Carbonetto, Matthew Stephens, Bernard W. Silverman, Ludger Evers</p>
 </div>
 
