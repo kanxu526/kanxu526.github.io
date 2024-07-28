@@ -37,7 +37,7 @@ Kan Xu, Hamsa Bastani<br>
 
 <h3>Refereed Conference Publications</h3>
 
-<p><a href="">Stochastic Bandits with ReLU Neural Networks</a><br>
+<p><a href="https://arxiv.org/abs/2405.07331">Stochastic Bandits with ReLU Neural Networks</a><br>
 Kan Xu, Hamsa Bastani, Surbhi Goel, Osbert Bastani<br>
 <b>International Conference on Machine Learning (ICML)</b>, 2024</p>
 
