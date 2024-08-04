@@ -16,7 +16,7 @@ Kan Xu, Xuanyi Zhao, Hamsa Bastani, Osbert Bastani<br>
 Major Revision, <b>Management Science</b><br>
 - Preliminary version in <b>ICML</b>, 2021</p>
 
-<p><a href="">Optimal Multitask Linear Regression and
+<p><a href="./research/molar.pdf">Optimal Multitask Linear Regression and
 Contextual Bandits under Sparse Heterogeneity</a><br>
 Xinmeng Huang, Kan Xu, Donghwan Lee, Hamed Hassani, Hamsa Bastani, Edgar Dobriban<br>
 Moderate Revision, <b>Journal of the American Statistical Association</b></p>
