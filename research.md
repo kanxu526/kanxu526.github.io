@@ -39,7 +39,8 @@ Kan Xu, Hamsa Bastani<br>
 
 <p><a href="https://proceedings.mlr.press/v235/xu24c.html">Stochastic Bandits with ReLU Neural Networks</a><br>
 Kan Xu, Hamsa Bastani, Surbhi Goel, Osbert Bastani<br>
-<b>International Conference on Machine Learning (ICML)</b>, 2024 <a href="https://github.com/kanxu526/ReLUBandit">[Code]</a></p> 
+<b>International Conference on Machine Learning (ICML)</b>, 2024<br>
+<a href="https://github.com/kanxu526/ReLUBandit">[Code]</a></p> 
 
 <p><a href="https://proceedings.mlr.press/v206/xu23j.html">Uniformly Conservative Exploration in Reinforcement Learning</a><br>
 Wanqiao Xu, Jason Yecheng Ma, Kan Xu, Hamsa Bastani, Osbert Bastani<br>
