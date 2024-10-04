@@ -21,6 +21,9 @@ Contextual Bandits under Sparse Heterogeneity</a><br>
 Xinmeng Huang, Kan Xu, Donghwan Lee, Hamed Hassani, Hamsa Bastani, Edgar Dobriban<br>
 Moderate Revision, <b>Journal of the American Statistical Association</b></p>
 
+<p><a href="./research/lrmatching.pdf">Match Made with Matrix Completion: Efficient Offline and Online Learning in Matching Markets</a><br>
+Zhiyuan Tang, Wanning Chen, Kan Xu</p>
+
 <p><a href="https://arxiv.org/abs/2009.02854v4">Two-Stage Maximum Score Estimator</a><br>
 Wayne Gao, Sheng Xu, Kan Xu</p>
 
