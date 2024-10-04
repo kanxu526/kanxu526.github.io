@@ -3,12 +3,12 @@ layout: default
 ---
 
 <ul class='menu'>
-<li><a cla href="./">Home</a></li>
+<li><a href="./">Home</a></li>
 <li><a href="./CV.pdf">CV</a></li>
 <li><a href="./research.html">Research</a></li>
+<li><a href="./student.html">Students</a></li>
 </ul>
 
-<div>
 <h3>Working Papers</h3>
 
 <p><a href="./research/grouptl.pdf">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
@@ -54,5 +54,5 @@ Kan Xu, Xuanyi Zhao, Hamsa Bastani, Osbert Bastani<br>
 
 <p><a href="https://github.com/stephenslab/EbayesThresh">R Package: EbayesThresh</a><br>
 Kan Xu, Peter Carbonetto, Matthew Stephens, Bernard W. Silverman, Ludger Evers</p>
-</div>
+
 

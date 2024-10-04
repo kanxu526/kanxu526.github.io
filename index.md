@@ -6,6 +6,7 @@ layout: default
 <li><a href="./">Home</a></li>
 <li><a href="./CV.pdf">CV</a></li>
 <li><a href="./research.html">Research</a></li>
+<li><a href="./student.html">Students</a></li>
 </ul>
 
 <p>I am currently an Assistant Professor of Information Systems at <a href="https://wpcarey.asu.edu/">Arizona State University, W. P. Carey School of Business</a>. Previously, I completed my PhD degree from University of Pennsylvania, Department of Economics under the supervision of <a href="https://hamsabastani.github.io"> Hamsa Bastani</a>. I received a B.S. in Mathematics and a B.A. in Economics from Tsinghua University, and a M.S. in Statistics from University of Chicago. </p>
