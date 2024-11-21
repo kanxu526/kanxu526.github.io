@@ -33,7 +33,7 @@ Kan Xu, Hamsa Bastani, Osbert Bastani<br>
 
 <h3>Journal Publications</h3>
 
-<p><a href="./research/rmbandit.pdf">Multitask Learning and Bandits via Robust Statistics</a><br>
+<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779711">Multitask Learning and Bandits via Robust Statistics</a><br>
 Kan Xu, Hamsa Bastani<br>
 <b>Management Science</b> (Forthcoming)<br>
 <span class='award'>3rd Place, IBM Service Science Best Student Paper Award (2022)</span></p>
