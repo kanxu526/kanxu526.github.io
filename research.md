@@ -9,7 +9,7 @@ layout: default
 <li><a href="./student.html">Students</a></li>
 </ul>
 
-<h3>Working Papers</h3>
+<h2>Working Papers</h2>
 
 <p><a href="./research/grouptl.pdf">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 Kan Xu, Xuanyi Zhao, Hamsa Bastani, Osbert Bastani<br>
@@ -26,7 +26,7 @@ Wayne Gao, Sheng Xu, Kan Xu</p>
 Kan Xu, Hamsa Bastani, Osbert Bastani<br>
 - Presented at: ICML UDL Workshop 2021, ICML OPPO Workshop 2021</p>
 
-<h3>Journal Publications</h3>
+<h2>Journal Publications</h2>
 
 <p><a href="https://arxiv.org/abs/2306.06291">Optimal Multitask Linear Regression and
 Contextual Bandits under Sparse Heterogeneity</a><br>
@@ -38,7 +38,7 @@ Kan Xu, Hamsa Bastani<br>
 <b>Management Science</b> (Forthcoming)<br>
 <span class='award'>3rd Place, IBM Service Science Best Student Paper Award (2022)</span></p>
 
-<h3>Refereed Conference Publications</h3>
+<h2>Refereed Conference Publications</h2>
 
 <p><a href="https://proceedings.mlr.press/v235/xu24c.html">Stochastic Bandits with ReLU Neural Networks</a><br>
 Kan Xu, Hamsa Bastani, Surbhi Goel, Osbert Bastani<br>
