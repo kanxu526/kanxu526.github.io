@@ -9,7 +9,7 @@ layout: default
 <li><a href="./student.html">Students</a></li>
 </ul>
 
-<h1>Working Papers</h1>
+<h2>Working Papers</h2>
 
 <p><a href="./research/grouptl.pdf">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 Kan Xu, Xuanyi Zhao, Hamsa Bastani, Osbert Bastani<br>

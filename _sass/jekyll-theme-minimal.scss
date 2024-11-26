@@ -22,22 +22,15 @@ h1, h2, h3 {
   line-height:1.1;
 }
 
-h1 {
-  font-size:28px;
-}
-
 h2 {
   color:#393939;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+  border-bottom: solid 1px #959595;
 }
 
 h3, h4, h5, h6 {
   color:#494949;
-}
-
-h2 {
-  padding-bottom: 5px;
-  margin-bottom: 10px;
-  border-bottom: solid 1px #959595;
 }
 
 a {
