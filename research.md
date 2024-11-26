@@ -53,7 +53,7 @@ Wanqiao Xu, Jason Yecheng Ma, Kan Xu, Hamsa Bastani, Osbert Bastani<br>
 Kan Xu, Xuanyi Zhao, Hamsa Bastani, Osbert Bastani<br>
 <b>International Conference on Machine Learning (ICML)</b>, 2021</p>
 
-<h3>Software</h3>
+<h2>Software</h2>
 
 <p><a href="https://github.com/stephenslab/EbayesThresh">R Package: EbayesThresh</a><br>
 Kan Xu, Peter Carbonetto, Matthew Stephens, Bernard W. Silverman, Ludger Evers</p>
