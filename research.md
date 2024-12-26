@@ -28,10 +28,12 @@ Kan Xu, Hamsa Bastani, Osbert Bastani<br>
 
 <h2>Journal Publications</h2>
 
+https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2439622?src=
+
 <p><a href="https://arxiv.org/abs/2306.06291">Optimal Multitask Linear Regression and
 Contextual Bandits under Sparse Heterogeneity</a><br>
 Xinmeng Huang, Kan Xu, Donghwan Lee, Hamed Hassani, Hamsa Bastani, Edgar Dobriban<br>
-<b>Journal of the American Statistical Association</b> (Forthcoming)</p>
+<b>Journal of the American Statistical Association</b>, 2024</p>
 
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779711">Multitask Learning and Bandits via Robust Statistics</a><br>
 Kan Xu, Hamsa Bastani<br>
