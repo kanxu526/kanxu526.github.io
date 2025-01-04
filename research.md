@@ -18,6 +18,7 @@ Major Revision, <b>Management Science</b><br>
 
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976903">Match Made with Matrix Completion: Efficient Offline and Online Learning in Matching Markets</a><br>
 Zhiyuan Tang, Wanning Chen, Kan Xu</p>
+<span class='award'>First Place, POMS-HK Best Student Paper Award (Tang, 2025)</span></p>
 
 <p><a href="https://arxiv.org/abs/2009.02854v4">Two-Stage Maximum Score Estimator</a><br>
 Wayne Gao, Sheng Xu, Kan Xu</p>
@@ -36,7 +37,7 @@ Xinmeng Huang, Kan Xu, Donghwan Lee, Hamed Hassani, Hamsa Bastani, Edgar Dobriba
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779711">Multitask Learning and Bandits via Robust Statistics</a><br>
 Kan Xu, Hamsa Bastani<br>
 <b>Management Science</b> (Forthcoming)<br>
-<span class='award'>3rd Place, IBM Service Science Best Student Paper Award (2022)</span></p>
+<span class='award'>Third Place, IBM Service Science Best Student Paper Award (2022)</span></p>
 
 <h2>Refereed Conference Publications</h2>
 
