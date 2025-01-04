@@ -17,7 +17,7 @@ Major Revision, <b>Management Science</b><br>
 - Preliminary version in <b>ICML</b>, 2021</p>
 
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976903">Match Made with Matrix Completion: Efficient Offline and Online Learning in Matching Markets</a><br>
-Zhiyuan Tang, Wanning Chen, Kan Xu</p>
+Zhiyuan Tang, Wanning Chen, Kan Xu<br>
 <span class='award'>First Place, POMS-HK Best Student Paper Award (Tang, 2025)</span></p>
 
 <p><a href="https://arxiv.org/abs/2009.02854v4">Two-Stage Maximum Score Estimator</a><br>
