@@ -23,10 +23,6 @@ Zhiyuan Tang, Wanning Chen, Kan Xu<br>
 <p><a href="https://arxiv.org/abs/2009.02854v4">Two-Stage Maximum Score Estimator</a><br>
 Wayne Gao, Sheng Xu, Kan Xu</p>
 
-<p><a href="https://arxiv.org/abs/2109.10935">Robust Generalization of Quadratic Neural Networks via Function Identification</a><br>
-Kan Xu, Hamsa Bastani, Osbert Bastani<br>
-- Presented at: ICML UDL Workshop 2021, ICML OPPO Workshop 2021</p>
-
 <h2>Journal Publications</h2>
 
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779711">Multitask Learning and Bandits via Robust Statistics</a><br>
@@ -53,6 +49,13 @@ Wanqiao Xu, Jason Yecheng Ma, Kan Xu, Hamsa Bastani, Osbert Bastani<br>
 <p><a href="http://proceedings.mlr.press/v139/xu21l.html">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 Kan Xu, Xuanyi Zhao, Hamsa Bastani, Osbert Bastani<br>
 <b>International Conference on Machine Learning (ICML)</b>, 2021</p>
+
+<h2>Workshops</h2>
+
+<p><a href="https://arxiv.org/abs/2109.10935">Robust Generalization of Quadratic Neural Networks via Function Identification</a><br>
+Kan Xu, Hamsa Bastani, Osbert Bastani<br>
+<b>ICML Uncertainty and Robustness in Deep Learning Workshop</b>, 2021<br>
+<b>ICML Overparameterization: Pitfalls & Opportunities Workshop</b>, 2021</p>
 
 <h2>Software</h2>
 
