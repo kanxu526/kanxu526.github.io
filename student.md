@@ -13,6 +13,8 @@ layout: default
 
 <p><a href="https://search.asu.edu/profile/4750809">Jie Chen</a>, ASU Carey IS</p>
 
+<p><a href="https://yuqin.tech/">Yu Qin</a>, ASU Carey IS (Advisor: Olivia Liu Sheng)</p>
+
 <p><a href="https://tangzyer.github.io/site/">Zhiyuan Tang</a>, UTD Jindal OM</p>
 
 <h2>Undergraduates</h2>
