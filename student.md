@@ -15,7 +15,7 @@ layout: default
 
 <p><a href="https://yuqin.tech/">Yu Qin</a>, ASU Carey IS (Advisor: Olivia Liu Sheng)</p>
 
-<p><a href="https://tangzyer.github.io/site/">Zhiyuan Tang</a>, UTD Jindal OM</p>
+<p><a href="https://tangzyer.github.io/site/">Zhiyuan Tang</a>, UTD Jindal OM (Advisor: Yining Wang)</p>
 
 <h2>Undergraduates</h2>
 
