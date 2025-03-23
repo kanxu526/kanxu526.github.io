@@ -19,4 +19,6 @@ layout: default
 
 <h2>Undergraduates</h2>
 
-<p><a href="https://umbrellasansan.github.io/">Sihan Wang</a>, USTC</p>
+<p><a href="https://umbrellasansan.github.io/">Sihan Wang</a>, USTC<br>
+Placement: PhD student, Yale SOM OM
+</p>
