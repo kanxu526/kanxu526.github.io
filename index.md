@@ -16,5 +16,5 @@ layout: default
 <p>Previously, I completed my PhD degree from Department of Economics, University of Pennsylvania. I was fortunately advised by <a href="https://hamsabastani.github.io">Hamsa Bastani</a> from the Operations, Information, and Decisions Department, the Wharton School. I also received a B.S. in Mathematics and a B.A. in Economics from Tsinghua University, and a M.S. in Statistics from University of Chicago. </p>
 
 <p>
-I am actively seeking self-motivated undergraduate/graduate students, who are interested in applying to Business PhD programs in Information Systems and Operations Management. My research projects spans areas such as design science (Information Systems) and machine learning theory (Operations Management). Please feel free to reach out via email if you would like to chat about potential opportunities!
+I am actively seeking self-motivated undergraduate/graduate students/RAs/interns, who are interested in applying to Business PhD programs in Information Systems/Operations Management. My research projects spans areas such as design science (Information Systems) and machine learning theory (Operations Management). Please feel free to reach out via email if you would like to chat about potential opportunities!
 </p>

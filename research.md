@@ -18,7 +18,8 @@ Major Revision, <b>Management Science</b><br>
 
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976903">Match Made with Matrix Completion: Efficient Offline and Online Learning in Matching Markets</a><br>
 Zhiyuan Tang, Wanning Chen, Kan Xu<br>
-<span class='award'>First Place, POMS-HK Best Student Paper Award (Tang, 2025)</span></p>
+<span class='award'>First Place, POMS-HK Best Student Paper Award (Tang, 2025)</span></p><br>
+- Extended abstract in <b>EC</b>, 2025</p>
 
 <p><a href="https://arxiv.org/abs/2009.02854v4">Two-Stage Maximum Score Estimator</a><br>
 Wayne Gao, Sheng Xu, Kan Xu</p>
@@ -36,6 +37,10 @@ Kan Xu, Hamsa Bastani<br>
 <span class='award'>Third Place, IBM Service Science Best Student Paper Award (2022)</span></p>
 
 <h2>Refereed Conference Publications</h2>
+
+<p><a href="">Match Made with Matrix Completion: Efficient Offline and Online Learning in Matching Markets</a><br>
+Zhiyuan Tang, Wanning Chen, Kan Xu<br>
+<b>>Proceedings of the 26th ACM Conference on Economics and Computation (EC)</b>, 2025</p>
 
 <p><a href="https://proceedings.mlr.press/v235/xu24c.html">Stochastic Bandits with ReLU Neural Networks</a><br>
 Kan Xu, Hamsa Bastani, Surbhi Goel, Osbert Bastani<br>
