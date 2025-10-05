@@ -18,7 +18,7 @@ Zhiyuan Tang, Wanning Chen, Kan Xu<br>
 
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4730050">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 Kan Xu, Xuanyi Zhao, Hamsa Bastani, Osbert Bastani<br>
-Major Revision, <b>Management Science</b><br>
+Minor Revision, <b>Management Science</b><br>
 - Preliminary version in <b>ICML</b>, 2021</p>
 
 <p><a href="https://arxiv.org/abs/2009.02854v4">Two-Stage Maximum Score Estimator</a><br>
