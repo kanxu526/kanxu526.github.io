@@ -19,7 +19,7 @@ Placement: Assistant Professor, CUHK Business School DOT, 2026
 
 <h2>Undergraduates</h2>
 
-<p>Haozhe Xu, XJTU<br>
+<p><a href="">Haozhe Xu, XJTU<br>
 Placement: PhD student, HKU Business School IIM, 2026
 </p>
 
