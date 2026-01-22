@@ -38,6 +38,10 @@ Kan Xu, Hamsa Bastani<br>
 
 <h2>Refereed Conference Publications</h2>
 
+<p><a href="">Adaptive Combinatorial Experimental Design: Pareto Optimality for Decision-Making and Inference</a><br>
+Hongrui Xie, Junyu Cao, Kan Xu<br>
+<b>International Conference on Artificial Intelligence and Statistics (AISTATS)</b>, 2026</p>
+
 <p><a href="https://dl.acm.org/doi/10.1145/3736252.3742592">Match Made with Matrix Completion: Efficient Offline and Online Learning in Matching Markets</a><br>
 Zhiyuan Tang, Wanning Chen, Kan Xu<br>
 <b>Proceedings of the 26th ACM Conference on Economics and Computation (EC)</b>, 2025</p>
