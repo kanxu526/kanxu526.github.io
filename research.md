@@ -38,7 +38,7 @@ Kan Xu, Hamsa Bastani<br>
 
 <h2>Refereed Conference Publications</h2>
 
-<p><a href="">Adaptive Combinatorial Experimental Design: Pareto Optimality for Decision-Making and Inference</a><br>
+<p><a href="https://arxiv.org/abs/2602.24231">Adaptive Combinatorial Experimental Design: Pareto Optimality for Decision-Making and Inference</a><br>
 Hongrui Xie, Junyu Cao, Kan Xu<br>
 <b>International Conference on Artificial Intelligence and Statistics (AISTATS)</b>, 2026</p>
 
