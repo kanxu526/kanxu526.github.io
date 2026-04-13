@@ -15,6 +15,10 @@ layout: default
 Placement: Assistant Professor, CUHK Business School DOT, 2026
 </p>
 
+<p><a href="">Hongrui Xie</a>, USTC Undergraduate<br>
+Placement: PhD student, USC Marshall OM, 2026
+</p>
+
 <p><a href="">Jiajun Cheng</a>, Duke Master<br>
 Placement: PhD student, University of Arizona Eller IS, 2026
 </p>
