@@ -9,9 +9,9 @@ layout: default
 <li><a href="./student.html">Students</a></li>
 </ul>
 
-<p><a href="https://tangzyer.github.io/site/">Zhiyuan Tang</a>, UTD Jindal OM (Advisor: Yining Wang)</p>
+<p><a href="https://tangzyer.github.io/site/">Zhiyuan Tang</a>, UTD Jindal OM PhD (Advisor: Yining Wang)</p>
 
-<p><a href="https://yuqin.tech/">Yu Qin</a>, PhD, ASU Carey IS (Advisor: Olivia Liu Sheng)<br>
+<p><a href="https://yuqin.tech/">Yu Qin</a>, ASU Carey IS PhD (Advisor: Olivia Liu Sheng)<br>
 Placement: Assistant Professor, CUHK Business School DOT, 2026
 </p>
 
