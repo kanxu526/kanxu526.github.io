@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<ul class='menu'>
+<li><a href="./">Home</a></li>
+<li><a href="./CV.pdf">CV</a></li>
+<li><a href="./research.html">Research</a></li>
+<li><a href="./student.html">Students</a></li>
+</ul>
+
+<p>I am currently an Assistant Professor of Information Systems at <a href="https://wpcarey.asu.edu/">W. P. Carey School of Business, Arizona State University</a>. </p>
+
+<p>My research lies at the intersection of machine learning and business analytics. For Operations Management (OM) topics, I develop novel machine learning methods that establish theoretical foundations through statistical frameworks. For Information Systems (IS) topics, I design new deep learning algorithms that enhance predictive and prescriptive performance informed by behavioral insights. We apply these approaches to real-world datasets in collaboration with industry partners, with applications in matching platforms, healthcare problems, textual analytics, etc.</p>
+
+<p>Previously, I completed my PhD degree from Department of Economics, University of Pennsylvania. I was fortunately advised by <a href="https://hamsabastani.github.io">Hamsa Bastani</a> from the Operations, Information, and Decisions Department, the Wharton School. I also received a B.S. in Mathematics and a B.A. in Economics from Tsinghua University, and a M.S. in Statistics from University of Chicago. </p>
+
+<p>
+I am seeking self-motivated undergraduate/graduate students/RAs/interns, who are interested in applying to Business PhD programs in IS/OM. My research topics include design science (IS) and machine learning theory (OM). Please feel free to reach out via email if you would like to chat about potential opportunities!
+</p>
