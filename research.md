@@ -13,12 +13,12 @@ layout: default
 
 <p><a href="">Uniformly Conservative Exploration in Reinforcement Learning</a><br>
 Kan Xu, Wanqiao Xu, Hamsa Bastani, Osbert Bastani<br>
-- Preliminary version in <b>AISTATS</b>, 2023</p>
+&emsp;- Preliminary version in <b>AISTATS</b>, 2023</p>
 
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976903">Match Made with Matrix Completion: Efficient Learning under Matching Interference</a><br>
 Zhiyuan Tang, Wanning Chen, Kan Xu<br>
-- <span class='award'>1st Place, POMS-HK Best Student Paper Award (Tang, 2025)</span><br>
-- Extended abstract in <b>EC</b>, 2025</p>
+&emsp;- <span class='award'>1st Place, POMS-HK Best Student Paper Award (Tang, 2025)</span><br>
+&emsp;- Extended abstract in <b>EC</b>, 2025</p>
 
 <p><a href="https://arxiv.org/abs/2009.02854v4">Two-Stage Maximum Score Estimator</a><br>
 Wayne Gao, Sheng Xu, Kan Xu</p>
@@ -28,7 +28,7 @@ Wayne Gao, Sheng Xu, Kan Xu</p>
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4730050">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 Kan Xu, Xuanyi Zhao, Hamsa Bastani, Osbert Bastani<br>
 <b>Management Science</b>, Accepted<br>
-- Preliminary version in <b>ICML</b>, 2021</p>
+&emsp;- Preliminary version in <b>ICML</b>, 2021</p>
 
 <p><a href="https://arxiv.org/abs/2306.06291">Optimal Multitask Linear Regression and
 Contextual Bandits under Sparse Heterogeneity</a><br> 
@@ -38,7 +38,7 @@ Xinmeng Huang, Kan Xu, Donghwan Lee, Hamed Hassani, Hamsa Bastani, Edgar Dobriba
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779711">Multitask Learning and Bandits via Robust Statistics</a><br>
 Kan Xu, Hamsa Bastani<br>
 <b>Management Science</b>, 2025<br>
-- <span class='award'>3rd Place, IBM Service Science Best Student Paper Award (2022)</span></p>
+&emsp;- <span class='award'>3rd Place, IBM Service Science Best Student Paper Award (2022)</span></p>
 
 <h2>Refereed Conference Publications</h2>
 
