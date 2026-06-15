@@ -17,6 +17,7 @@ Kan Xu, Wanqiao Xu, Hamsa Bastani, Osbert Bastani<br>
 
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976903">Match Made with Matrix Completion: Efficient Learning under Matching Interference</a><br>
 Zhiyuan Tang, Wanning Chen, Kan Xu<br>
+Major Revision, <b>Operations Research</b><br>
 &emsp;- <span class='award'>1st Place, POMS-HK Best Student Paper Award (Tang, 2025)</span><br>
 &emsp;- Extended abstract in <b>EC</b>, 2025</p>
 
