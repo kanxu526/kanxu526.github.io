@@ -11,7 +11,7 @@ layout: default
 
 <h2>Working Papers</h2>
 
-<p><a href="">Uniformly Conservative Exploration in Reinforcement Learning</a><br>
+<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959361">Uniformly Conservative Exploration in Reinforcement Learning</a><br>
 Kan Xu, Wanqiao Xu, Hamsa Bastani, Osbert Bastani<br>
 &emsp;- Preliminary version in <b>AISTATS</b>, 2023</p>
 
