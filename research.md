@@ -41,6 +41,10 @@ Kan Xu, Hamsa Bastani<br>
 <b>Management Science</b>, 2025<br>
 &emsp;- <span class='award'>3rd Place, IBM Service Science Best Student Paper Award (2022)</span></p>
 
+<p><a href="https://www.tandfonline.com/doi/abs/10.1080/13658816.2015.1024254">A Stratified Optimization Method for a Multivariate Marine Environmental Monitoring Network in the Yangtze River Estuary and Its Adjacent Sea</a><br> 
+Bing-Bo Gao, Jin-Feng Wang, Hai-Mei Fan, Kan Xu, Mao-Gui Hu, Zi-Yue Chen<br>
+<b>International Journal of Geographical Information Science</b>, 2015</p>
+
 <h2>Refereed Conference Publications</h2>
 
 <p><a href="https://arxiv.org/abs/2602.24231">Adaptive Combinatorial Experimental Design: Pareto Optimality for Decision-Making and Inference</a><br>
