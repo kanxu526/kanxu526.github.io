@@ -18,7 +18,7 @@ Kan Xu, Wanqiao Xu, Hamsa Bastani, Osbert Bastani<br>
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976903">Match Made with Matrix Completion: Efficient Learning under Matching Interference</a><br>
 Zhiyuan Tang, Wanning Chen, Kan Xu<br>
 Major Revision, <b>Operations Research</b><br>
-&emsp;- <span class='award'>1st Place, POMS-HK Best Student Paper Award (Tang, 2025)</span><br>
+&emsp;- <span class='award'>1st Place, POMS-HK Best Student Paper Award, 2025 (Tang)</span><br>
 &emsp;- Extended abstract in <b>EC</b>, 2025</p>
 
 <p><a href="https://arxiv.org/abs/2009.02854v4">Two-Stage Maximum Score Estimator</a><br>
@@ -39,7 +39,7 @@ Xinmeng Huang, Kan Xu, Donghwan Lee, Hamed Hassani, Hamsa Bastani, Edgar Dobriba
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779711">Multitask Learning and Bandits via Robust Statistics</a><br>
 Kan Xu, Hamsa Bastani<br>
 <b>Management Science</b>, 2025<br>
-&emsp;- <span class='award'>3rd Place, IBM Service Science Best Student Paper Award (2022)</span></p>
+&emsp;- <span class='award'>3rd Place, IBM Service Science Best Student Paper Award, 2022</span></p>
 
 <p><a href="https://www.tandfonline.com/doi/abs/10.1080/13658816.2015.1024254">A Stratified Optimization Method for a Multivariate Marine Environmental Monitoring Network in the Yangtze River Estuary and Its Adjacent Sea</a><br> 
 Bing-Bo Gao, Jin-Feng Wang, Hai-Mei Fan, Kan Xu, Mao-Gui Hu, Zi-Yue Chen<br>
