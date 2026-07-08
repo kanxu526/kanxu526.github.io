@@ -11,7 +11,7 @@ layout: default
 
 <p>I am currently an Assistant Professor of Information Systems at <a href="https://wpcarey.asu.edu/">W. P. Carey School of Business, Arizona State University</a>. </p>
 
-<p>My research lies at the intersection of machine learning and business analytics. For Operations Management (OM) topics, I develop novel machine learning methods that establish theoretical foundations through statistical frameworks. For Information Systems (IS) topics, I design new deep learning algorithms that enhance predictive and prescriptive performance informed by behavioral insights. We apply these approaches to real-world datasets in collaboration with industry partners, with applications in matching platforms, healthcare problems, textual analytics, etc.</p>
+<p>My research lies at the intersection of machine learning and business analytics. For Operations Management (OM) topics, I develop novel machine learning methods that establish theoretical foundations through statistical frameworks. For Information Systems (IS) topics, I design new deep learning algorithms that enhance predictive and prescriptive performance informed by behavioral insights. I apply these approaches to real-world datasets in collaboration with industry partners, with applications in matching platforms, healthcare problems, textual analytics, etc.</p>
 
 <p>Previously, I completed my PhD degree from Department of Economics, University of Pennsylvania. I was fortunately advised by <a href="https://hamsabastani.github.io">Hamsa Bastani</a> from the Operations, Information, and Decisions Department, the Wharton School. I also received a B.S. in Mathematics and a B.A. in Economics from Tsinghua University, and a M.S. in Statistics from University of Chicago. </p>
 
