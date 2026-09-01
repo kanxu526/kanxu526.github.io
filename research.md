@@ -28,7 +28,7 @@ Wayne Gao, Sheng Xu, Kan Xu</p>
 
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4730050">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 Kan Xu, Xuanyi Zhao, Hamsa Bastani, Osbert Bastani<br>
-<b>Management Science</b>, Accepted<br>
+<b>Management Science</b>, 2026<br>
 &emsp;- Preliminary version in <b>ICML</b>, 2021</p>
 
 <p><a href="https://arxiv.org/abs/2306.06291">Optimal Multitask Linear Regression and
