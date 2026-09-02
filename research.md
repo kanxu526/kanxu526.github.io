@@ -66,7 +66,8 @@ Wanqiao Xu, Jason Yecheng Ma, Kan Xu, Hamsa Bastani, Osbert Bastani<br>
 
 <p><a href="http://proceedings.mlr.press/v139/xu21l.html">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 Kan Xu, Xuanyi Zhao, Hamsa Bastani, Osbert Bastani<br>
-<b>International Conference on Machine Learning (ICML)</b>, 2021</p>
+<b>International Conference on Machine Learning (ICML)</b>, 2021<br>
+<a href="https://github.com/kanxu526/GroupTLWordEmbedding">[Code]</a></p>
 
 <h2>Workshops</h2>
 
