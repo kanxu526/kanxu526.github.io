@@ -11,25 +11,31 @@ layout: default
 
 <h2>Working Papers</h2>
 
+<div class="group">
+
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959361">Uniformly Conservative Exploration in Reinforcement Learning</a><br>
 Kan Xu, Wanqiao Xu, Hamsa Bastani, Osbert Bastani<br>
-&emsp;- Preliminary version in <b>AISTATS</b>, 2023</p>
+<span class="sub">&emsp;- Preliminary version in <b>AISTATS</b>, 2023</span></p>
 
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976903">Match Made with Matrix Completion: Efficient Learning under Matching Interference</a><br>
 Zhiyuan Tang, Wanning Chen, Kan Xu<br>
 Major Revision, <b>Operations Research</b><br>
-&emsp;- <span class='award'>1st Place, POMS-HK Best Student Paper Award, 2025 (Tang)</span><br>
-&emsp;- Extended abstract in <b>EC</b>, 2025</p>
+<span class="sub">&emsp;- <span class='award'>1st Place, POMS-HK Best Student Paper Award, 2025 (Tang)</span></span><br>
+<span class="sub">&emsp;- Extended abstract in <b>EC</b>, 2025</span></p>
 
 <p><a href="https://arxiv.org/abs/2009.02854v4">Two-Stage Maximum Score Estimator</a><br>
 Wayne Gao, Sheng Xu, Kan Xu</p>
 
+</div>
+
 <h2>Journal Publications</h2>
+
+<div class="group">
 
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4730050">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 Kan Xu, Xuanyi Zhao, Hamsa Bastani, Osbert Bastani<br>
 <b>Management Science</b>, 2026<br>
-&emsp;- Preliminary version in <b>ICML</b>, 2021</p>
+<span class="sub">&emsp;- Preliminary version in <b>ICML</b>, 2021</span></p>
 
 <p><a href="https://arxiv.org/abs/2306.06291">Optimal Multitask Linear Regression and
 Contextual Bandits under Sparse Heterogeneity</a><br> 
@@ -39,13 +45,17 @@ Xinmeng Huang, Kan Xu, Donghwan Lee, Hamed Hassani, Hamsa Bastani, Edgar Dobriba
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779711">Multitask Learning and Bandits via Robust Statistics</a><br>
 Kan Xu, Hamsa Bastani<br>
 <b>Management Science</b>, 2025<br>
-&emsp;- <span class='award'>3rd Place, IBM Service Science Best Student Paper Award, 2022</span></p>
+<span class="sub">&emsp;- <span class='award'>3rd Place, IBM Service Science Best Student Paper Award, 2022</span></span></p>
 
 <p><a href="https://www.tandfonline.com/doi/abs/10.1080/13658816.2015.1024254">A Stratified Optimization Method for a Multivariate Marine Environmental Monitoring Network in the Yangtze River Estuary and Its Adjacent Sea</a><br> 
 Bing-Bo Gao, Jin-Feng Wang, Hai-Mei Fan, Kan Xu, Mao-Gui Hu, Zi-Yue Chen<br>
 <b>International Journal of Geographical Information Science</b>, 2015</p>
 
+</div>
+
 <h2>Refereed Conference Publications</h2>
+
+<div class="group">
 
 <p><a href="https://arxiv.org/abs/2602.24231">Adaptive Combinatorial Experimental Design: Pareto Optimality for Decision-Making and Inference</a><br>
 Hongrui Xie, Junyu Cao, Kan Xu<br>
@@ -69,16 +79,24 @@ Kan Xu, Xuanyi Zhao, Hamsa Bastani, Osbert Bastani<br>
 <b>International Conference on Machine Learning (ICML)</b>, 2021<br>
 <a href="https://github.com/kanxu526/GroupTLWordEmbedding">[Code]</a></p>
 
+</div>
+
 <h2>Workshops</h2>
+
+<div class="group">
 
 <p><a href="https://arxiv.org/abs/2109.10935">Robust Generalization of Quadratic Neural Networks via Function Identification</a><br>
 Kan Xu, Hamsa Bastani, Osbert Bastani<br>
 <b>ICML Uncertainty and Robustness in Deep Learning Workshop</b>, 2021<br>
 <b>ICML Overparameterization: Pitfalls & Opportunities Workshop</b>, 2021</p>
 
+</div>
+
 <h2>Software</h2>
+
+<div class="group">
 
 <p><a href="https://github.com/stephenslab/EbayesThresh">R Package: EbayesThresh</a><br>
 Kan Xu, Peter Carbonetto, Matthew Stephens, Bernard W. Silverman, Ludger Evers</p>
 
-
+</div>

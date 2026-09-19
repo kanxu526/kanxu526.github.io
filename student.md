@@ -9,6 +9,8 @@ layout: default
 <li><a class="active" href="./student.html">Students</a></li>
 </ul>
 
+<div class="group">
+
 <p><a href="https://tangzyer.github.io/site/">Zhiyuan Tang</a>, UTD Jindal OM PhD (Advisor: Yining Wang)</p>
 
 <p><a href="https://yuqin.tech/">Yu Qin</a>, ASU Carey IS PhD (Advisor: Olivia Liu Sheng)<br>
@@ -30,3 +32,5 @@ Placement: PhD student, HKU Business School IIM, 2026
 <p><a href="https://umbrellasansan.github.io/">Sihan Wang</a>, USTC Undergraduate<br>
 Placement: PhD student, Yale SOM OM, 2025
 </p>
+
+</div>

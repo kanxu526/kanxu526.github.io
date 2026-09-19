@@ -25,12 +25,10 @@ body {
 
   a { color: var(--accent); }
 
-  // Slightly wider than the theme default (860px wrapper / 500px content).
-  // 270px sidebar + 40px gap + 570px content, centred, so the blank space on the
-  // left and right is equal. 270 + 570 = 840 still fits at the theme's 960px
-  // stacking breakpoint.
-  .wrapper { width: auto; max-width: 880px; }
-  section { width: 570px; }
+  // Content column: theme default is 500px; 540px leaves room for the longest
+  // award line. The 860px wrapper is unchanged, and 270 + 540 still fits at the
+  // theme's 960px stacking breakpoint.
+  section { width: 540px; }
 
   // Sidebar
   header {
@@ -47,8 +45,8 @@ body {
       margin: 0 0 6px;
       a { color: var(--heading); }
     }
-    .role { color: var(--accent); font-weight: 600; margin: 0 0 14px; }
-    .affil { color: var(--muted); font-size: 14px; line-height: 1.6; margin: 0 0 18px; }
+    .role { color: var(--accent); font-weight: 600; font-size: 15px; margin: 0 0 14px; }
+    .affil { color: var(--muted); font-size: 15px; line-height: 1.6; margin: 0 0 18px; }
     .links {
       display: flex; gap: 6px; flex-wrap: nowrap;
       a {
@@ -74,7 +72,7 @@ body {
     border-radius: 99px;
     li { float: none; flex: 1; }
     li a {
-      font-size: 16px; padding: 7px 0; border-radius: 99px;
+      font-size: 15px; padding: 7px 0; border-radius: 99px;
       color: var(--muted); text-decoration: none;
       &:hover { color: var(--heading); }
       &.active { background: var(--accent); color: #fff; }
@@ -89,7 +87,7 @@ body {
     border-radius: 12px;
     padding: 12px 15px;
     margin: 0 0 12px;
-    font-size: 16px;
+    font-size: 15px;
     line-height: 1.55;
   }
   .card { background: var(--surface); }
@@ -104,18 +102,41 @@ body {
   // Section headings (Research page)
   section h2 {
     font-size: 20px;
-    margin: 28px 0 14px;
+    margin: 20px 0 12px;
     padding-bottom: 6px;
     border-bottom: 2px solid var(--accent);
     display: inline-block;
     &:first-of-type { margin-top: 0; }
   }
 
-  // Paper / student entries: each paragraph directly in <section> becomes a box
+  // Student entries: each paragraph directly in <section> becomes a box
   section > p {
     background: var(--surface);
     b { color: var(--heading); }
   }
+
+  // Research: one box per section, papers separated by thin dividers
+  .group {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 0 15px;
+    margin: 0 0 12px;
+    > p {
+      margin: 0;
+      padding: 12px 0;
+      font-size: 15px;
+      line-height: 1.55;
+      border-top: 1px solid var(--line);
+      b { color: var(--heading); }
+    }
+    > p:first-child { border-top: 0; }
+  }
+
+  // Bullet lines under a paper (preliminary version, awards, ...): the dash
+  // and its text are slightly smaller than the title/authors/venue lines.
+  .sub { font-size: 13.5px; }
+
   .award {
     background: #fbf3dc; color: #8a6508; font-weight: 400;
     padding: 1px 8px; border-radius: 6px;
