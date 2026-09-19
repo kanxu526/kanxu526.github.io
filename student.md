@@ -6,7 +6,7 @@ layout: default
 <li><a href="./">Home</a></li>
 <li><a href="./CV.pdf">CV</a></li>
 <li><a href="./research.html">Research</a></li>
-<li><a href="./student.html">Students</a></li>
+<li><a class="active" href="./student.html">Students</a></li>
 </ul>
 
 <p><a href="https://tangzyer.github.io/site/">Zhiyuan Tang</a>, UTD Jindal OM PhD (Advisor: Yining Wang)</p>

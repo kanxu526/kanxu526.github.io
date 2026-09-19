@@ -6,3 +6,120 @@
 html {
   font-size: 24px; // change to whatever
 }
+
+// ---------------------------------------------------------------
+// Site-wide design (all pages use layout: default)
+// ---------------------------------------------------------------
+html { overflow-y: scroll; } // always reserve the scrollbar so every page lines up
+
+body {
+  --bg: #f7f6f2; --surface: #fff; --text: #727272; --heading: #1d2330;
+  --muted: #667085; --line: #e5e2d9; --accent: #8c1d40; --accent-soft: #f6e9ed;
+  background: var(--bg);
+  color: var(--text);
+
+  @media (prefers-color-scheme: dark) {
+    --bg: #14161b; --surface: #1c1f26; --text: #b4b9c4; --heading: #e8eaee;
+    --muted: #9aa3b2; --line: #2b2f38; --accent: #e07a97; --accent-soft: #2a1a20;
+  }
+
+  a { color: var(--accent); }
+
+  // Slightly wider than the theme default (860px wrapper / 500px content).
+  // 270px sidebar + 40px gap + 570px content, centred, so the blank space on the
+  // left and right is equal. 270 + 570 = 840 still fits at the theme's 960px
+  // stacking breakpoint.
+  .wrapper { width: auto; max-width: 880px; }
+  section { width: 570px; }
+
+  // Sidebar
+  header {
+    .photo {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 8px;
+      margin-bottom: 20px;
+      img { display: block; width: 100%; border-radius: 6px; }
+    }
+    h1 {
+      font-size: 30px; font-weight: 700; line-height: 1.2;
+      margin: 0 0 6px;
+      a { color: var(--heading); }
+    }
+    .role { color: var(--accent); font-weight: 600; margin: 0 0 14px; }
+    .affil { color: var(--muted); font-size: 14px; line-height: 1.6; margin: 0 0 18px; }
+    .links {
+      display: flex; gap: 6px; flex-wrap: nowrap;
+      a {
+        font-size: 12px; font-weight: 500; white-space: nowrap;
+        color: var(--heading); background: var(--surface);
+        border: 1px solid var(--line); border-radius: 99px;
+        padding: 4px 9px; text-decoration: none; transition: .15s;
+        &:hover { border-color: var(--accent); color: var(--accent); }
+      }
+    }
+  }
+
+  // Menu: pill bar with roomy spacing like the original
+  ul.menu {
+    display: flex;
+    box-sizing: border-box;
+    width: 100%;
+    overflow: visible;
+    margin: 0 0 12px;
+    padding: 5px;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 99px;
+    li { float: none; flex: 1; }
+    li a {
+      font-size: 16px; padding: 7px 0; border-radius: 99px;
+      color: var(--muted); text-decoration: none;
+      &:hover { color: var(--heading); }
+      &.active { background: var(--accent); color: #fff; }
+    }
+  }
+
+  // Content boxes: every box on every page shares the same font size,
+  // padding and spacing so the structure lines up.
+  .card, .callout, section > p {
+    box-sizing: border-box;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 12px 15px;
+    margin: 0 0 12px;
+    font-size: 16px;
+    line-height: 1.55;
+  }
+  .card { background: var(--surface); }
+  .card p { margin: 0 0 16px; }
+  .card p:last-child, .callout p:last-child { margin-bottom: 0; }
+  .callout {
+    background: var(--accent-soft);
+    border-left: 4px solid var(--accent);
+    p { margin: 0; }
+  }
+
+  // Section headings (Research page)
+  section h2 {
+    font-size: 20px;
+    margin: 28px 0 14px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid var(--accent);
+    display: inline-block;
+    &:first-of-type { margin-top: 0; }
+  }
+
+  // Paper / student entries: each paragraph directly in <section> becomes a box
+  section > p {
+    background: var(--surface);
+    b { color: var(--heading); }
+  }
+  .award {
+    background: #fbf3dc; color: #8a6508; font-weight: 400;
+    padding: 1px 8px; border-radius: 6px;
+    -webkit-box-decoration-break: clone; box-decoration-break: clone;
+    @media (prefers-color-scheme: dark) { background: #2b2515; color: #e6b84d; }
+  }
+}

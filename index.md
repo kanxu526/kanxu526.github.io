@@ -3,11 +3,13 @@ layout: default
 ---
 
 <ul class='menu'>
-<li><a href="./">Home</a></li>
+<li><a class="active" href="./">Home</a></li>
 <li><a href="./CV.pdf">CV</a></li>
 <li><a href="./research.html">Research</a></li>
 <li><a href="./student.html">Students</a></li>
 </ul>
+
+<div class="card">
 
 <p>I am currently an Assistant Professor of Information Systems at <a href="https://wpcarey.asu.edu/">W. P. Carey School of Business, Arizona State University</a>. </p>
 
@@ -15,6 +17,12 @@ layout: default
 
 <p>Previously, I completed my PhD degree from Department of Economics, University of Pennsylvania. I was fortunately advised by <a href="https://hamsabastani.github.io">Hamsa Bastani</a> from the Operations, Information, and Decisions Department, the Wharton School. I also received a B.S. in Mathematics and a B.A. in Economics from Tsinghua University, and a M.S. in Statistics from University of Chicago. </p>
 
+</div>
+
+<div class="callout">
+
 <p>
 I am seeking self-motivated undergraduate/graduate students/RAs/interns, who are interested in applying to Business PhD programs in IS/OM. My research topics include design science (IS) and machine learning theory (OM). Please feel free to reach out via email if you would like to chat about potential opportunities!
 </p>
+
+</div>
