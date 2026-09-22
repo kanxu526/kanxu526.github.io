@@ -27,8 +27,15 @@ body {
 
   // Content column: theme default is 500px; 540px leaves room for the longest
   // award line. The 860px wrapper is unchanged, and 270 + 540 still fits at the
-  // theme's 960px stacking breakpoint.
-  section { width: 540px; }
+  // theme's 960px stacking breakpoint. Scoped to min-width so it never fights
+  // the theme's own mobile rule (max-width: 960px) that stacks header/section
+  // into one column at width:auto — without this scoping, our rule was more
+  // specific than the theme's and won even on phones, leaving the page wider
+  // than the screen (Safari then shrinks everything to fit, which looked like
+  // an unwanted zoom on touch).
+  @media screen and (min-width: 961px) {
+    section { width: 540px; }
+  }
 
   // Sidebar
   header {
