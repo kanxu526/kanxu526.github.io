@@ -13,11 +13,11 @@ layout: default
 
 <div class="group">
 
-<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959361">Uniformly Conservative Exploration in Reinforcement Learning</a><br>
+<p><a href="https://arxiv.org/abs/2110.13060">Uniformly Conservative Exploration in Reinforcement Learning</a><br>
 Kan Xu, Wanqiao Xu, Hamsa Bastani, Osbert Bastani<br>
 <span class="sub">&emsp;- Preliminary version in <b>AISTATS</b>, 2023</span></p>
 
-<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976903">Match Made with Matrix Completion: Efficient Learning under Matching Interference</a><br>
+<p><a href="https://arxiv.org/abs/2601.06982">Match Made with Matrix Completion: Efficient Learning under Matching Interference</a><br>
 Zhiyuan Tang, Wanning Chen, Kan Xu<br>
 Major Revision, <b>Operations Research</b><br>
 <span class="sub">&emsp;- <span class='award'>1st Place, POMS-HK Best Student Paper Award, 2025 (Tang)</span></span><br>
@@ -32,7 +32,7 @@ Wayne Gao, Sheng Xu, Kan Xu</p>
 
 <div class="group">
 
-<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4730050">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
+<p><a href="https://arxiv.org/abs/2104.08928">Group-Sparse Matrix Factorization for Transfer Learning of Word Embeddings</a><br>
 Kan Xu, Xuanyi Zhao, Hamsa Bastani, Osbert Bastani<br>
 <b>Management Science</b>, 2026<br>
 <span class="sub">&emsp;- Preliminary version in <b>ICML</b>, 2021</span></p>
@@ -42,7 +42,7 @@ Contextual Bandits under Sparse Heterogeneity</a><br>
 Xinmeng Huang, Kan Xu, Donghwan Lee, Hamed Hassani, Hamsa Bastani, Edgar Dobriban<br>
 <b>Journal of the American Statistical Association</b>, 2025</p>
 
-<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4779711">Multitask Learning and Bandits via Robust Statistics</a><br>
+<p><a href="https://arxiv.org/abs/2112.14233">Multitask Learning and Bandits via Robust Statistics</a><br>
 Kan Xu, Hamsa Bastani<br>
 <b>Management Science</b>, 2025<br>
 <span class="sub">&emsp;- <span class='award'>3rd Place, IBM Service Science Best Student Paper Award, 2022</span></span></p>
