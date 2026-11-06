@@ -13,11 +13,11 @@ layout: default
 
 <div class="group">
 
-<p><a href="https://arxiv.org/abs/2110.13060">Uniformly Conservative Exploration in Reinforcement Learning</a><br>
+<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6959361">Uniformly Conservative Exploration in Reinforcement Learning</a><br>
 Kan Xu, Wanqiao Xu, Hamsa Bastani, Osbert Bastani<br>
 <span class="sub">&emsp;- Preliminary version in <b>AISTATS</b>, 2023</span></p>
 
-<p><a href="https://arxiv.org/abs/2601.06982">Match Made with Matrix Completion: Efficient Learning under Matching Interference</a><br>
+<p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4976903">Match Made with Matrix Completion: Efficient Learning under Matching Interference</a><br>
 Zhiyuan Tang, Wanning Chen, Kan Xu<br>
 Major Revision, <b>Operations Research</b><br>
 <span class="sub">&emsp;- <span class='award'>1st Place, POMS-HK Best Student Paper Award, 2025 (Tang)</span></span><br>
